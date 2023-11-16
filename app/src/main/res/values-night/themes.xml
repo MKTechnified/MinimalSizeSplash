@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.LogBook" parent="android:Theme.Material.NoActionBar">
+
+    </style>
+
+    <style name="SplashTheme" parent="android:Theme.Material.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@drawable/mainsplash_layout</item>
+    </style>
+</resources>
